@@ -5,5 +5,6 @@ applications:
   instances: 1
   domain: mybluemix.net
   name: chatbot_gbs_0405_v1.0
+  host: chatbotgbs1234
   disk_quota: 1024M
   buildpack: https://github.com/cloudfoundry/staticfile-buildpack.git
